@@ -26,6 +26,9 @@ Neural Belief Tracker - DNN | 84.4% | 91.2% |
 Neural Belief Tracker - CNN | 84.2% | 91.6% |
 GLAD | 88.1 ± 0.4% | 97.1 ± 0.2% |
 *Simple BERT Model* (BERT-Base) | 90.5% | 97.6% |
+
+
+
 https://github.com/jim4399266/week6_BERT-DST/blob/main/images/%E8%8B%B1%E6%96%87crosswoz.png
 
 中文数据集卡在Start traing
