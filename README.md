@@ -1,6 +1,6 @@
-中文数据集使用中文crosswoz，利用xbot中的readable_preprocess.py转换为readable文件进行处理。
-get_ontology.py文件获取ontology
-dataset_cn.py文件整理中文数据集
+中文数据集使用中文crosswoz，利用xbot中的readable_preprocess.py转换为readable文件进行处理。  
+get_ontology.py文件获取ontology  
+dataset_cn.py文件整理中文数据集  
 
 # BERT-DST
 
